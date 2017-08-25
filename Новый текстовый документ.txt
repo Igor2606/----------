@@ -1,0 +1,11 @@
+#span1{
+border:1px solid #501DF6;
+padding:0 30px;
+margin:0 30px;	
+display:block;
+
+
+
+
+ol li{
+display:inline;	
